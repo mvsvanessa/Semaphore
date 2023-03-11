@@ -1,0 +1,10 @@
+C:\Users\home\source\repos\correcaoSemafaro\correcaoSemafaro\bin\Debug\correcaoSemafaro.exe.config
+C:\Users\home\source\repos\correcaoSemafaro\correcaoSemafaro\bin\Debug\correcaoSemafaro.exe
+C:\Users\home\source\repos\correcaoSemafaro\correcaoSemafaro\bin\Debug\correcaoSemafaro.pdb
+C:\Users\home\source\repos\correcaoSemafaro\correcaoSemafaro\obj\Debug\correcaoSemafaro.csprojAssemblyReference.cache
+C:\Users\home\source\repos\correcaoSemafaro\correcaoSemafaro\obj\Debug\correcaoSemafaro.Form1.resources
+C:\Users\home\source\repos\correcaoSemafaro\correcaoSemafaro\obj\Debug\correcaoSemafaro.Properties.Resources.resources
+C:\Users\home\source\repos\correcaoSemafaro\correcaoSemafaro\obj\Debug\correcaoSemafaro.csproj.GenerateResource.cache
+C:\Users\home\source\repos\correcaoSemafaro\correcaoSemafaro\obj\Debug\correcaoSemafaro.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\correcaoSemafaro\correcaoSemafaro\obj\Debug\correcaoSemafaro.exe
+C:\Users\home\source\repos\correcaoSemafaro\correcaoSemafaro\obj\Debug\correcaoSemafaro.pdb
